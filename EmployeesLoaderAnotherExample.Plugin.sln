@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesLoaderAnotherExample.Plugin", "EmployeesAnotherExample.Plugin\EmployeesLoaderAnotherExample.Plugin.csproj", "{4A83F673-D138-49D6-8B02-BB96BC03FF62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A83F673-D138-49D6-8B02-BB96BC03FF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A83F673-D138-49D6-8B02-BB96BC03FF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A83F673-D138-49D6-8B02-BB96BC03FF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A83F673-D138-49D6-8B02-BB96BC03FF62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEF78092-B255-4A32-A131-C83C79B5B64D}
+	EndGlobalSection
+EndGlobal
